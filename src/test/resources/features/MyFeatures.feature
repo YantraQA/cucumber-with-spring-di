@@ -1,4 +1,4 @@
-Feature: My First Feature
+ Feature: My First Feature
 
   @smoke
   Scenario: I am a Scenario

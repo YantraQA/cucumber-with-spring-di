@@ -17,6 +17,11 @@ public class StepDefs {
         log.info("Scenario COntext object hash: " + scenarioContext.hashCode());
         log.info("Old values of users: " + scenarioContext.getUsers().toString());
 
+//        Character a;
+//        a.
+//        a.length()
+
+
     }
 
 
